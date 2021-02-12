@@ -62,6 +62,11 @@
                                 Abstract
                             </a>
                         </li>
+                        <li>    
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio">
+                                Desafio
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
