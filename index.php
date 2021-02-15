@@ -53,11 +53,6 @@
                             </a>
                         </li>
                         <li>    
-                            <a href="exercicio.php?dir=classes_objetos&file=interface">
-                                Interface
-                            </a>
-                        </li>
-                        <li>    
                             <a href="exercicio.php?dir=classes_objetos&file=abstract">
                                 Abstract
                             </a>
@@ -65,6 +60,26 @@
                         <li>    
                             <a href="exercicio.php?dir=classes_objetos&file=desafio">
                                 Desafio
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=classes_objetos&file=final">
+                                Método Final
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_01">
+                                Traits #01
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=classes_objetos&file=traits_02">
+                                Traits #02
+                            </a>
+                        </li>
+                        <li>    
+                            <a href="exercicio.php?dir=classes_objetos&file=magic_methods">
+                                Métodos Mágicos
                             </a>
                         </li>
                     </ul>
