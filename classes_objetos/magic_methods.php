@@ -22,8 +22,11 @@ class Pessoa{
     public function apresentar(){
         echo $this . "<br>";
     }
+
 }
 
 $pessoa = new Pessoa('Ricardo', 40);
-$pessoa->apresentar();
-echo '<br>', $pessoa, '<br>';
+// $pessoa->apresentar();
+// echo '<br>', $pessoa, '<br>';
+
+$pessoa->nomeCompleto;
