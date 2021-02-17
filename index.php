@@ -14,6 +14,17 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo laranja-escuro">
+                    <h3>10. namespace</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=basico">
+                                Include
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
             <div class="modulo roxo-escuro">
                     <h3>9. Includes</h3>
                     <ul>
