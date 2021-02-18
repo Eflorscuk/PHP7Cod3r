@@ -19,10 +19,14 @@
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=namespace&file=basico">
-                                Include
+                                Basico namespace
                             </a>
                         </li>
-                        
+                        <li>
+                            <a href="exercicio.php?dir=namespace&file=sub_namespace">
+                                Sub namespaces
+                            </a>
+                        </li>
                     </ul>
                 </div>
             <div class="modulo roxo-escuro">
