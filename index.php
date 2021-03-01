@@ -22,6 +22,11 @@
                             Sessão
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=sessao&file=gerenciandoSessao">
+                            Gerenciando Sessão
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo verde">
