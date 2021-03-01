@@ -19,6 +19,6 @@ print_r($_SESSION);
 ?>
 
 <p>
-    <a href='/sessao/basico_sessao_alterar.php'>Alterar Sessão</a>
+    <a href='sessao/alterar.php'>Alterar Sessão</a>
 </p>
 

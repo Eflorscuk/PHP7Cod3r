@@ -19,7 +19,7 @@
                 <ul>
                     <li>
                         <a href="exercicio.php?dir=sessao&file=basico_sessao">
-                            Sessão #01
+                            Sessão
                         </a>
                     </li>
                 </ul>
