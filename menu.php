@@ -17,6 +17,11 @@
                     Escrevendo Arquivo
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=API&file=ler_arquivo">
+                    Ler arquivo
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">

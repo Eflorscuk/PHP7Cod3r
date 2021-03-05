@@ -1,7 +1,7 @@
 <div class="titulo">Escrevendo Arquivo</div>
 
 <?php
-$arquivo = fopen('texte.txt', 'w');
+$arquivo = fopen('teste.txt', 'w');
 fwrite($arquivo, "Valor inicial\n");
 $str = "Segunda Linha\n";
 fwrite($arquivo, $str);
@@ -11,7 +11,7 @@ $arquivo = fopen('teste.txt', 'w');
 fwrite($arquivo, "Novo conteúdo");
 fclose($arquivo);
 
-$arquivo = fopen('texte.txt', 'a');
+$arquivo = fopen('teste.txt', 'a'); //Mode append
 fwrite($arquivo, "com novos valores\n");
 fwrite($arquivo, "Adicionamdo um segundo segundo momento");
 fclose($arquivo);
