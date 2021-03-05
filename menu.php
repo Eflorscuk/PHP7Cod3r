@@ -7,6 +7,11 @@
                     Data #01
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=API&file=data_02">
+                    Data #02
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">
