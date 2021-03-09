@@ -1,39 +1,50 @@
 <nav class="modulos">
+    <div class="modulo roxo">
+        <h3>14. Formulário</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=formulario&file=formulario">
+                    Criação de formulário
+                </a>
+            </li>
+            
+        </ul>
+    </div>>
     <div class="modulo azul">
         <h3>13. API</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=API&file=datas_01">
+                <a href="exercicio.php?dir=api&file=datas_01">
                     Datas #01
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=datas_02">
+                <a href="exercicio.php?dir=api&file=datas_02">
                     Datas #02
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=escrever_arquivo">
+                <a href="exercicio.php?dir=api&file=escrever_arquivo">
                     Escrever Arquivo
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=ler_arquivo">
+                <a href="exercicio.php?dir=api&file=ler_arquivo">
                     Ler Arquivo
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=upload">
+                <a href="exercicio.php?dir=api&file=upload">
                     Upload
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=download">
+                <a href="exercicio.php?dir=api&file=download">
                     Download
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?API=api&file=imagens">
+                <a href="exercicio.php?dir=api&file=imagens">
                     Imagens
                 </a>
             </li>
