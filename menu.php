@@ -1,32 +1,40 @@
 <nav class="modulos">
-<<<<<<< HEAD
-<div class="modulo azul">
-        <h3>12. Sessão</h3>
-        <ul>
-            <li>
-                <a href="exercicio.php?dir=sessao&file=try_catch">
-=======
     <div class="modulo azul">
         <h3>13. API</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=API&file=data_01">
-                    Data #01
+                <a href="exercicio.php?dir=API&file=datas_01">
+                    Datas #01
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=API&file=data_02">
-                    Data #02
+                <a href="exercicio.php?dir=API&file=datas_02">
+                    Datas #02
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=API&file=escrever_arquivo">
-                    Escrevendo Arquivo
+                    Escrever Arquivo
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=API&file=ler_arquivo">
-                    Ler arquivo
+                    Ler Arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=API&file=upload">
+                    Upload
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=API&file=download">
+                    Download
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?API=api&file=imagens">
+                    Imagens
                 </a>
             </li>
         </ul>
@@ -36,16 +44,11 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=sessao&file=basico_sessao">
->>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
                     Sessão
                 </a>
             </li>
             <li>
-<<<<<<< HEAD
-                <a href="exercicio.php?dir=sessao&file=erros_personalizados">
-=======
                 <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
->>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
                     Gerenciando Sessão
                 </a>
             </li>
