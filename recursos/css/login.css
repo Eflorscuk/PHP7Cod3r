@@ -3,12 +3,20 @@ body.login {
     grid-template-areas: "cabecalho" "principal" "rodape";
 }
 
+<<<<<<< HEAD
 .principal {
+=======
+body.login .principal {
+>>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
     height: calc(100vh - 180px);
 }
 
 h3 {
+<<<<<<< HEAD
     font-size: 2.1 rem;
+=======
+    font-size: 2.1rem;
+>>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
     margin: 20px;
 }
 

@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <?php error_reporting (E_ALL ^ E_NOTICE); ?>
+=======
+>>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
 <?php 
 session_start();
 
@@ -55,7 +58,11 @@ if($_POST['email']) {
     <main class="principal">
         <div class="conteudo">
             <h3>Identifique-se</h3>
+<<<<<<< HEAD
             <?php if ($_SESSION['erro']): ?>
+=======
+            <?php if ($_SESSION['erros']): ?>
+>>>>>>> d43d1c0d8c51ace7dff107e86b83796127059e58
                 <div class="erros">
                     <?php foreach ($_SESSION['erros'] as $erro): ?>
                         <p><?= $erro ?></p>
