@@ -4,12 +4,11 @@
         <ul>
             <li>
                 <a href="exercicio.php?dir=formulario&file=formulario">
-                    Criação de formulário
+                    Formulário
                 </a>
             </li>
-            
         </ul>
-    </div>>
+    </div>
     <div class="modulo azul">
         <h3>13. API</h3>
         <ul>
